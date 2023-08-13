@@ -54,6 +54,7 @@
             <<: &default_columns_to_fields
               flag: Flag
               map: Map
+              population: Population
               tags: tags
 
             guid             : guid

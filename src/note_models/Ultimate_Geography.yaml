@@ -18,6 +18,8 @@ fields:
     font: Arial
   - name: Map
     font: Arial
+  - name: Population
+    font: Arial
 templates:
   - name: Country - Capital
     html_file: src/note_models/templates/Country - Capital.html
